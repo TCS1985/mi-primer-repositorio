@@ -5,4 +5,4 @@ Estoy aprendiendo a usar Git paso a paso.
 También estoy aprendiendo a revisar cambios con git diff.
 Ahora también entiendo la diferencia entre git diff y git diff --staged.
 Este repositorio también está publicado en Github
-Estoy practicando git pull desde mi repositorio clonado.
+Estoy practicando git pull resolviendo un conflicto entre el repositorio original y el clonado.
